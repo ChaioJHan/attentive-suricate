@@ -740,7 +740,7 @@ Note the difference in how `color=` is implemented here. It’s no longer **mapp
 
 #### `geom_point`
 
-This generates point geometries. This is often used in generating scatterplots. For example, using `dat` dataste to plot  female income (variable `B20004013`) vs male income (variable `B20004007`):
+This generates point geometries. This is often used in generating scatterplots. For example, using `dat` dataset to plot  female income (variable `B20004013`) vs male income (variable `B20004007`):
 
 ```{r,  eval=T}
 ggplot(dat2, aes(x = B20004013, y = B20004007)) + geom_point(alpha = 0.3) 
@@ -1111,7 +1111,7 @@ To view the full list of mathematical expressions, call for help `?plotmath`.
 
 ### Faceting
 
-The functionality of teh `lattice` package are also available in `ggplot2`. It is called *faceting*
+The functionality of the `lattice` package are also available in `ggplot2`. It is called *faceting*
 
 #### Faceting by categorical variables
 
