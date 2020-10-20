@@ -1,0 +1,390 @@
+Area	Year	Value	Flag Description
+American Samoa	2011	72	FAO data based on imputation methodology
+American Samoa	2012	72	FAO data based on imputation methodology
+American Samoa	2013	72	FAO data based on imputation methodology
+American Samoa	2014	72	FAO data based on imputation methodology
+Australia	2011	293	FAO data based on imputation methodology
+Australia	2012	27	FAO data based on imputation methodology
+Australia	2013	27	FAO data based on imputation methodology
+Australia	2014	0	FAO estimate
+Austria	2011	0	FAO data based on imputation methodology
+Austria	2012	0	FAO data based on imputation methodology
+Austria	2013	0	FAO data based on imputation methodology
+Austria	2014	0	FAO estimate
+Bangladesh	2011	15614	FAO data based on imputation methodology
+Bangladesh	2012	16252	FAO data based on imputation methodology
+Bangladesh	2013	18101	FAO data based on imputation methodology
+Bangladesh	2014	17911	FAO data based on imputation methodology
+Barbados	2011	0	FAO data based on imputation methodology
+Barbados	2012	0	FAO data based on imputation methodology
+Barbados	2013	0	FAO data based on imputation methodology
+Barbados	2014	0	FAO estimate
+Belgium	2011	0	FAO data based on imputation methodology
+Belgium	2012	0	FAO data based on imputation methodology
+Belgium	2013	0	FAO data based on imputation methodology
+Belgium	2014	0	FAO estimate
+Belize	2011		Data not available
+Belize	2012		Data not available
+Belize	2013		Data not available
+Belize	2014		Data not available
+Benin	2011	1500	FAO estimate
+Benin	2012	1600	FAO estimate
+Benin	2013	1560	FAO data based on imputation methodology
+Benin	2014	1560	FAO data based on imputation methodology
+Brazil	2011	2000	Unofficial figure
+Brazil	2012	2000	Unofficial figure
+Brazil	2013	2000	Unofficial figure
+Brazil	2014	2000	Unofficial figure
+Cambodia	2011	10395	FAO data based on imputation methodology
+Cambodia	2012	10238	FAO data based on imputation methodology
+Cambodia	2013	10796	FAO data based on imputation methodology
+Cambodia	2014	11340	FAO data based on imputation methodology
+Cameroon	2011	900	FAO data based on imputation methodology
+Cameroon	2012	990	FAO data based on imputation methodology
+Cameroon	2013	990	FAO data based on imputation methodology
+Cameroon	2014	900	FAO data based on imputation methodology
+"China, Hong Kong SAR"	2011	331	FAO data based on imputation methodology
+"China, Hong Kong SAR"	2012	387	FAO data based on imputation methodology
+"China, Hong Kong SAR"	2013	387	FAO data based on imputation methodology
+"China, Hong Kong SAR"	2014	406	FAO data based on imputation methodology
+Colombia	2011	0	FAO data based on imputation methodology
+Colombia	2012	87	Official data
+Colombia	2013	89	Official data
+Colombia	2014	90	FAO estimate
+Comoros	2011	5160	FAO data based on imputation methodology
+Comoros	2012	5160	FAO data based on imputation methodology
+Comoros	2013	5160	FAO data based on imputation methodology
+Comoros	2014	5400	FAO data based on imputation methodology
+Cook Islands	2011	0	FAO data based on imputation methodology
+Cook Islands	2012	0	FAO data based on imputation methodology
+Cook Islands	2013	0	FAO data based on imputation methodology
+Cook Islands	2014	0	FAO data based on imputation methodology
+Costa Rica	2011	132	FAO data based on imputation methodology
+Costa Rica	2012	539	FAO data based on imputation methodology
+Costa Rica	2013	248	FAO data based on imputation methodology
+Costa Rica	2014	128	FAO data based on imputation methodology
+C?te d'Ivoire	2011	31803	FAO data based on imputation methodology
+C?te d'Ivoire	2012	29440	FAO data based on imputation methodology
+C?te d'Ivoire	2013	29430	FAO data based on imputation methodology
+C?te d'Ivoire	2014	29430	FAO data based on imputation methodology
+Czechia	2012		Data not available
+Czechia	2013		Data not available
+Czechia	2014		Data not available
+Denmark	2011	50	FAO data based on imputation methodology
+Denmark	2012	60	FAO data based on imputation methodology
+Denmark	2013	47	FAO data based on imputation methodology
+Denmark	2014	47	FAO data based on imputation methodology
+Dominica	2011	500	FAO estimate
+Dominica	2012	500	FAO estimate
+Dominica	2013	500	FAO estimate
+Dominica	2014	520	FAO estimate
+Dominican Republic	2011	7300	Unofficial figure
+Dominican Republic	2012	7300	Unofficial figure
+Dominican Republic	2013	7300	Unofficial figure
+Dominican Republic	2014	7300	Unofficial figure
+Ecuador	2011	2112	FAO data based on imputation methodology
+Ecuador	2012	2053	FAO data based on imputation methodology
+Ecuador	2013	2068	FAO data based on imputation methodology
+Ecuador	2014	2112	FAO data based on imputation methodology
+El Salvador	2011	960	FAO data based on imputation methodology
+El Salvador	2012	1056	FAO data based on imputation methodology
+El Salvador	2013	1085	FAO data based on imputation methodology
+El Salvador	2014	1308	FAO data based on imputation methodology
+Fiji	2011	4765	Official data
+Fiji	2012	4977	Official data
+Fiji	2013	5225	Official data
+Fiji	2014	3990	Official data
+Finland	2011	3	FAO data based on imputation methodology
+Finland	2012	4	FAO data based on imputation methodology
+Finland	2013	0	FAO data based on imputation methodology
+Finland	2014	0	FAO estimate
+France	2011	0	FAO data based on imputation methodology
+France	2012	0	FAO data based on imputation methodology
+France	2013	0	FAO data based on imputation methodology
+France	2014	0	FAO data based on imputation methodology
+French Polynesia	2011	6456	Official data
+French Polynesia	2012	6992	Official data
+French Polynesia	2013	6099	Official data
+French Polynesia	2014	7250	FAO estimate
+Germany	2011		Data not available
+Germany	2012		Data not available
+Germany	2013		Data not available
+Germany	2014		Data not available
+Ghana	2011	9900	FAO estimate
+Ghana	2012	8578	FAO data based on imputation methodology
+Ghana	2013	8516	FAO data based on imputation methodology
+Ghana	2014	9000	FAO data based on imputation methodology
+Grenada	2011	374	FAO data based on imputation methodology
+Grenada	2012	374	FAO data based on imputation methodology
+Grenada	2013	374	FAO data based on imputation methodology
+Grenada	2014	384	FAO data based on imputation methodology
+Guam	2011	1210	FAO data based on imputation methodology
+Guam	2012	1210	FAO data based on imputation methodology
+Guam	2013	1210	FAO data based on imputation methodology
+Guam	2014	1210	FAO data based on imputation methodology
+Guinea	2011	1350	FAO data based on imputation methodology
+Guinea	2012	1350	FAO data based on imputation methodology
+Guinea	2013	1325	FAO data based on imputation methodology
+Guinea	2014	1410	FAO data based on imputation methodology
+Guinea-Bissau	2011	5859	FAO data based on imputation methodology
+Guinea-Bissau	2012	5839	FAO data based on imputation methodology
+Guinea-Bissau	2013	5952	FAO data based on imputation methodology
+Guinea-Bissau	2014	5985	FAO data based on imputation methodology
+Guyana	2011	1330	FAO estimate
+Guyana	2012	960	FAO estimate
+Guyana	2013	1100	FAO estimate
+Guyana	2014	1100	FAO data based on imputation methodology
+Honduras	2011	646	FAO data based on imputation methodology
+Honduras	2012	646	FAO data based on imputation methodology
+Honduras	2013	646	FAO data based on imputation methodology
+Honduras	2014	640	FAO data based on imputation methodology
+Iceland	2013	0	Official data
+Iceland	2014	0	Official data
+India	2011	379000	Unofficial figure
+India	2012	391800	Unofficial figure
+India	2013	433000	Unofficial figure
+India	2014	394200	Unofficial figure
+Indonesia	2011	840200	Official data
+Indonesia	2012	926500	Official data
+Indonesia	2013	868000	Unofficial figure
+Indonesia	2014	911100	Unofficial figure
+Iraq	2011	227	FAO data based on imputation methodology
+Iraq	2012	133	FAO data based on imputation methodology
+Iraq	2013	27	FAO data based on imputation methodology
+Iraq	2014	27	FAO data based on imputation methodology
+Ireland	2011	0	FAO data based on imputation methodology
+Ireland	2012	0	FAO data based on imputation methodology
+Ireland	2013	10	FAO data based on imputation methodology
+Ireland	2014	10	FAO estimate
+Israel	2011	0	FAO data based on imputation methodology
+Israel	2012	0	FAO data based on imputation methodology
+Israel	2013	0	FAO data based on imputation methodology
+Israel	2014	0	FAO data based on imputation methodology
+Italy	2011	83	FAO data based on imputation methodology
+Italy	2012	256	FAO data based on imputation methodology
+Italy	2013	256	FAO data based on imputation methodology
+Italy	2014	512	FAO data based on imputation methodology
+Jamaica	2011	11200	FAO data based on imputation methodology
+Jamaica	2012	11200	FAO data based on imputation methodology
+Jamaica	2013	11200	FAO data based on imputation methodology
+Jamaica	2014	11520	FAO data based on imputation methodology
+Japan	2011	0	FAO estimate
+Japan	2012	0	FAO estimate
+Japan	2013	0	FAO estimate
+Japan	2014	0	FAO data based on imputation methodology
+Kenya	2011	2070	FAO data based on imputation methodology
+Kenya	2012	4258	FAO data based on imputation methodology
+Kenya	2013	4258	FAO data based on imputation methodology
+Kenya	2014	4258	FAO data based on imputation methodology
+Kiribati	2011	5026	FAO data based on imputation methodology
+Kiribati	2012	3023	FAO data based on imputation methodology
+Kiribati	2013	4239	FAO data based on imputation methodology
+Kiribati	2014	5539	FAO data based on imputation methodology
+Madagascar	2011	6600	FAO data based on imputation methodology
+Madagascar	2012	6600	FAO data based on imputation methodology
+Madagascar	2013	6601	FAO data based on imputation methodology
+Madagascar	2014	6600	FAO data based on imputation methodology
+Malaysia	2011	51000	Official data
+Malaysia	2012	45400	Unofficial figure
+Malaysia	2013	52900	Unofficial figure
+Malaysia	2014	58240	Official data
+Maldives	2011	19	FAO data based on imputation methodology
+Maldives	2012	8	FAO data based on imputation methodology
+Maldives	2013	8	FAO data based on imputation methodology
+Maldives	2014	10	FAO estimate
+Mauritius	2011	13	FAO data based on imputation methodology
+Mauritius	2012	13	FAO data based on imputation methodology
+Mauritius	2013	13	FAO data based on imputation methodology
+Mauritius	2014	64	FAO data based on imputation methodology
+Mexico	2011	130400	Unofficial figure
+Mexico	2012	134800	Unofficial figure
+Mexico	2013	129100	Unofficial figure
+Mexico	2014	126600	Unofficial figure
+Micronesia (Federated States of)	2011	2898	FAO data based on imputation methodology
+Micronesia (Federated States of)	2012	2900	FAO estimate
+Micronesia (Federated States of)	2013	3000	FAO estimate
+Micronesia (Federated States of)	2014	2898	FAO data based on imputation methodology
+Mozambique	2011	21329	Official data
+Mozambique	2012	17574	Official data
+Mozambique	2013	18388	Official data
+Mozambique	2014	18646	Official data
+Myanmar	2011	28	FAO data based on imputation methodology
+Myanmar	2012	0	FAO data based on imputation methodology
+Myanmar	2013	0	FAO data based on imputation methodology
+Myanmar	2014	0	FAO estimate
+Nepal	2011	1	FAO data based on imputation methodology
+Nepal	2012	0	FAO data based on imputation methodology
+Nepal	2013	0	FAO data based on imputation methodology
+Nepal	2014	0	FAO estimate
+Netherlands	2011	0	FAO data based on imputation methodology
+Netherlands	2012	0	FAO data based on imputation methodology
+Netherlands	2013	0	FAO data based on imputation methodology
+Netherlands	2014	0	FAO data based on imputation methodology
+New Caledonia	2011	72	FAO estimate
+New Caledonia	2012	74	FAO estimate
+New Caledonia	2013	74	FAO estimate
+New Caledonia	2014	74	FAO data based on imputation methodology
+New Zealand	2011	0	FAO data based on imputation methodology
+New Zealand	2012	0	FAO data based on imputation methodology
+New Zealand	2013	0	FAO data based on imputation methodology
+New Zealand	2014	0	FAO estimate
+Nicaragua	2011	64	FAO data based on imputation methodology
+Nicaragua	2012	64	FAO data based on imputation methodology
+Nicaragua	2013	64	FAO data based on imputation methodology
+Nicaragua	2014	64	FAO data based on imputation methodology
+Nigeria	2011	11550	FAO estimate
+Nigeria	2012	12000	FAO estimate
+Nigeria	2013	11211	FAO data based on imputation methodology
+Nigeria	2014	12000	FAO estimate
+Norway	2011	0	FAO data based on imputation methodology
+Norway	2012	0	Official data
+Norway	2013	0	Official data
+Norway	2014	0	Official data
+Pakistan	2011	6728	FAO data based on imputation methodology
+Pakistan	2012	11482	FAO data based on imputation methodology
+Pakistan	2013	11038	FAO data based on imputation methodology
+Pakistan	2014	11038	FAO data based on imputation methodology
+Panama	2011	20	FAO data based on imputation methodology
+Panama	2012	20	Official data
+Panama	2013	20	Official data
+Panama	2014	21	Official data
+Papua New Guinea	2011	54700	Unofficial figure
+Papua New Guinea	2012	37900	Unofficial figure
+Papua New Guinea	2013	36300	Unofficial figure
+Papua New Guinea	2014	21600	Unofficial figure
+Philippines	2011	1254522	FAO data based on imputation methodology
+Philippines	2012	1274352	FAO data based on imputation methodology
+Philippines	2013	1208952	FAO data based on imputation methodology
+Philippines	2014	1109112	FAO data based on imputation methodology
+Poland	2011	0	FAO data based on imputation methodology
+Poland	2012	0	FAO data based on imputation methodology
+Poland	2013	289	FAO data based on imputation methodology
+Poland	2014	289	FAO data based on imputation methodology
+Portugal	2011		Data not available
+Portugal	2012		Data not available
+Portugal	2013		Data not available
+Portugal	2014	61	FAO data based on imputation methodology
+Puerto Rico	2011	519	FAO data based on imputation methodology
+Puerto Rico	2012	525	FAO data based on imputation methodology
+Puerto Rico	2013	531	FAO data based on imputation methodology
+Puerto Rico	2014	607	FAO data based on imputation methodology
+Republic of Korea	2011	513	FAO data based on imputation methodology
+Republic of Korea	2012	728	FAO data based on imputation methodology
+Republic of Korea	2013	731	FAO data based on imputation methodology
+Republic of Korea	2014	731	FAO data based on imputation methodology
+Saint Kitts and Nevis	2011	693	FAO data based on imputation methodology
+Saint Kitts and Nevis	2012	567	FAO data based on imputation methodology
+Saint Kitts and Nevis	2013	536	FAO data based on imputation methodology
+Saint Kitts and Nevis	2014	252	FAO data based on imputation methodology
+Saint Lucia	2011	475	FAO estimate
+Saint Lucia	2012	487	FAO estimate
+Saint Lucia	2013	487	FAO estimate
+Saint Lucia	2014	487	FAO data based on imputation methodology
+Saint Vincent and the Grenadines	2011	315	FAO data based on imputation methodology
+Saint Vincent and the Grenadines	2012	300	FAO data based on imputation methodology
+Saint Vincent and the Grenadines	2013	300	FAO data based on imputation methodology
+Saint Vincent and the Grenadines	2014	315	FAO data based on imputation methodology
+Samoa	2011	5100	Unofficial figure
+Samoa	2012	5100	Unofficial figure
+Samoa	2013	5100	Unofficial figure
+Samoa	2014	5100	Unofficial figure
+Sao Tome and Principe	2011	511	FAO data based on imputation methodology
+Sao Tome and Principe	2012	998	FAO data based on imputation methodology
+Sao Tome and Principe	2013	2829	FAO data based on imputation methodology
+Sao Tome and Principe	2014	333	FAO data based on imputation methodology
+Seychelles	2011	6	FAO estimate
+Seychelles	2012	7	FAO estimate
+Seychelles	2013	5	FAO estimate
+Seychelles	2014	15	FAO estimate
+Solomon Islands	2011	5600	Unofficial figure
+Solomon Islands	2012	7900	Unofficial figure
+Solomon Islands	2013	12700	Unofficial figure
+Solomon Islands	2014	13700	Unofficial figure
+South Africa	2011	0	FAO data based on imputation methodology
+South Africa	2012	2	FAO data based on imputation methodology
+South Africa	2013	0	FAO data based on imputation methodology
+South Africa	2014	0	FAO estimate
+Spain	2011	0	FAO data based on imputation methodology
+Spain	2012	0	FAO data based on imputation methodology
+Spain	2013	0	FAO data based on imputation methodology
+Spain	2014	0	FAO estimate
+Sri Lanka	2011	53090	Official data
+Sri Lanka	2012	55190	Official data
+Sri Lanka	2013	45208	Official data
+Sri Lanka	2014	45268	Official data
+Suriname	2011	449	FAO data based on imputation methodology
+Suriname	2012	419	FAO data based on imputation methodology
+Suriname	2013	1104	FAO data based on imputation methodology
+Suriname	2014	1280	FAO data based on imputation methodology
+Eswatini	2011	0	FAO data based on imputation methodology
+Eswatini	2012	0	FAO data based on imputation methodology
+Eswatini	2013	0	FAO data based on imputation methodology
+Eswatini	2014	0	FAO estimate
+Sweden	2011	0	FAO data based on imputation methodology
+Sweden	2012	0	FAO data based on imputation methodology
+Sweden	2013	0	FAO data based on imputation methodology
+Sweden	2014	0	FAO data based on imputation methodology
+Switzerland	2011	0	FAO data based on imputation methodology
+Switzerland	2012	0	FAO data based on imputation methodology
+Switzerland	2013	0	FAO data based on imputation methodology
+Switzerland	2014	0	FAO data based on imputation methodology
+Thailand	2011	26200	Unofficial figure
+Thailand	2012	28700	Unofficial figure
+Thailand	2013	29300	Unofficial figure
+Thailand	2014	29300	Unofficial figure
+Timor-Leste	2011	378	FAO data based on imputation methodology
+Timor-Leste	2012	378	FAO data based on imputation methodology
+Timor-Leste	2013	378	FAO data based on imputation methodology
+Timor-Leste	2014	378	FAO data based on imputation methodology
+Togo	2011	1760	FAO data based on imputation methodology
+Togo	2012	1655	FAO data based on imputation methodology
+Togo	2013	1541	FAO data based on imputation methodology
+Togo	2014	1600	FAO data based on imputation methodology
+Tokelau	2011	29	FAO data based on imputation methodology
+Tokelau	2012	29	FAO data based on imputation methodology
+Tokelau	2013	29	FAO data based on imputation methodology
+Tokelau	2014	29	FAO data based on imputation methodology
+Tonga	2011	3800	FAO estimate
+Tonga	2012	6200	FAO estimate
+Tonga	2013	6250	FAO estimate
+Tonga	2014	6250	FAO data based on imputation methodology
+Trinidad and Tobago	2011	875	FAO estimate
+Trinidad and Tobago	2012	1500	FAO estimate
+Trinidad and Tobago	2013	1500	FAO estimate
+Trinidad and Tobago	2014	1500	FAO data based on imputation methodology
+Turkey	2011	0	FAO data based on imputation methodology
+Turkey	2012	0	FAO data based on imputation methodology
+Turkey	2013	0	FAO data based on imputation methodology
+Turkey	2014	0	FAO estimate
+Tuvalu	2011	20	FAO data based on imputation methodology
+Tuvalu	2012	20	FAO data based on imputation methodology
+Tuvalu	2013	20	FAO data based on imputation methodology
+Tuvalu	2014	20	FAO data based on imputation methodology
+United Kingdom of Great Britain and Northern Ireland	2011	0	FAO data based on imputation methodology
+United Kingdom of Great Britain and Northern Ireland	2012	0	FAO data based on imputation methodology
+United Kingdom of Great Britain and Northern Ireland	2013	0	FAO data based on imputation methodology
+United Kingdom of Great Britain and Northern Ireland	2014	0	FAO data based on imputation methodology
+United Republic of Tanzania	2011	16193	FAO data based on imputation methodology
+United Republic of Tanzania	2012	16800	FAO data based on imputation methodology
+United Republic of Tanzania	2013	11400	FAO data based on imputation methodology
+United Republic of Tanzania	2014	11400	FAO data based on imputation methodology
+Vanuatu	2011	14586	FAO data based on imputation methodology
+Vanuatu	2012	12860	FAO data based on imputation methodology
+Vanuatu	2013	8601	FAO data based on imputation methodology
+Vanuatu	2014	10000	FAO estimate
+Venezuela (Bolivarian Republic of)	2011	10947	FAO data based on imputation methodology
+Venezuela (Bolivarian Republic of)	2012	13963	FAO data based on imputation methodology
+Venezuela (Bolivarian Republic of)	2013	16393	FAO data based on imputation methodology
+Venezuela (Bolivarian Republic of)	2014	15000	FAO estimate
+Viet Nam	2011	154888	FAO data based on imputation methodology
+Viet Nam	2012	154746	FAO data based on imputation methodology
+Viet Nam	2013	154849	FAO data based on imputation methodology
+Viet Nam	2014	156769	FAO data based on imputation methodology
+Wallis and Futuna Islands	2011	164	FAO data based on imputation methodology
+Wallis and Futuna Islands	2012	164	FAO data based on imputation methodology
+Wallis and Futuna Islands	2013	164	FAO data based on imputation methodology
+Wallis and Futuna Islands	2014	164	FAO data based on imputation methodology
+China	2011	331	"Aggregate, may include official, semi-official, estimated or calculated data"
+China	2012	387	"Aggregate, may include official, semi-official, estimated or calculated data"
+China	2013	387	"Aggregate, may include official, semi-official, estimated or calculated data"
+China	2014	406	"Aggregate, may include official, semi-official, estimated or calculated data"
